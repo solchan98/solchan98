@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **solchan98/solchan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![SolChan's github stats](https://github-readme-stats.vercel.app/api?username=solchan98&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💪Skills
+Platforms & Languages  
+  
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
