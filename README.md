@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![SolChan's github stats](https://github-readme-stats.vercel.app/api?username=solchan98&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💪 Skills
 Platforms & Languages  
   
