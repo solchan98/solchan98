@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... ⚡ Fun fact: ... 
 -->
-- 🌱 I'm currently learning TypeScript and NestJs( + TypeORM)
+- 🌱 I'm currently learning TypeScript and NestJs
 
 ### 💪 Skills
 #### Platforms & Languages 💻-  
