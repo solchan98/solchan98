@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 -->
  🌳   
 ### Languages & Platforms 💻  
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<!--<br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white"/>-->
 
 ### Now Learning 🌱🌱
 
