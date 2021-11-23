@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 ### Now Learning 🌱🌱
 
 #### CI/CD 🐳  
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>  
+#### Test 
+<img src="https://img.shields.io/badge/-JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/>  
+
 #### Keep Learning 🔥  
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  
 
