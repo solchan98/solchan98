@@ -4,14 +4,14 @@
 Junior Software Engineer
 
 ## 🧑‍💻 History
-- **Myongji Univ.** - Computer Engineering
-    - Mar 2017 ~ Feb 2023  
-- **YAPP 19th** - Backend, iOS Platform
-    - Aug 2021 ~ Jan 2022
+- **Hyundai Motor Group** - ICT Commerce Platform Backend Engineer
+    - Apr 2023 ~ 
 - **GDSC** - Backend Core Member, Google Delevoper Student Club MJU
     - Aug 2022 ~ Aug 2023 
-- **KIA, Hyundai Motor Group** - ICT Backend Engineer
-    - Apr 2023 ~ 
+- **YAPP 19th** - Backend, iOS Platform
+    - Aug 2021 ~ Jan 2022
+- **Myongji Univ.** - Computer Engineering
+    - Mar 2017 ~ Feb 2023  
 
 ## 🛠 Skills
 ### Backend
