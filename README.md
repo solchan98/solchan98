@@ -6,7 +6,7 @@ Junior Software Engineer
 ## 🧑‍💻 History
 - **Hyundai Motor Group** - ICT Commerce Platform Backend Engineer
     - Apr 2023 ~ 
-- **GDSC** - Backend Core Member, Google Delevoper Student Club MJU
+- **GDSC** - Backend Core Member, Google Delevoper Student Club
     - Aug 2022 ~ Aug 2023 
 - **YAPP 19th** - Backend, iOS Platform
     - Aug 2021 ~ Jan 2022
