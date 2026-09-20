@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### 박솔찬
-Junior Software Engineer
 
 ## 🧑‍💻 History
 - **Hyundai Motor Group** - ICT Product Platform Backend Engineer
